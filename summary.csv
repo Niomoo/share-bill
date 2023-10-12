@@ -1,0 +1,2 @@
+record_date, water_start, water_end, water_bill, gas_start, gas_end, gas_bill, electricity_start, electricity_end, electricity_bill
+2023-10-12,2023-07-01,2023-08-08,0,2023-07-01,2023-08-31,146,2023-07-01,2023-09-30,1202
